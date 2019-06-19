@@ -18,6 +18,5 @@
         <p> My love for him is so great, <p>
         <p> No one could ever replace. <p>
         <p> <strong>/ᐠ｡ꞈ｡ᐟ✿\</strong> </p>
-        <img src="images/IMG_2809.jpg">
     </body>
 </html>
